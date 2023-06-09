@@ -1,0 +1,20 @@
+names:
+- '-'
+- Basking Shark
+- Blacktip Shark
+- Blue Shark
+- Bull Shark
+- Crocodile
+- Hammerhead Shark
+- Lemon Shark
+- Mako Shark
+- Nurse Shark
+- Sandtiger Shark
+- Thresher Shark
+- Tiger Shark
+- Whale Shark
+- White Shark
+- Whitetip Shark
+nc: 16
+train: SDB-2/train/images
+val: SDB-2/valid/images
